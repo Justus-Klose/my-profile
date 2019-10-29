@@ -1,0 +1,31 @@
+style.css
+h1 {font-size: 60px;font-family: 'Staatliches', cursive;
+}
+h1, h2 {font-family: 'Staatliches', cursive; color: #801336;
+}
+body {text-align: center;background-color:#E6F8F9;
+ font-size: 18px;
+}
+p{color:#3A1F5D;font-family: 'Montserrat', sans-serif;
+}
+a{
+	transition: 0.5s;
+	text-decoration:none;
+	color:#3A1F5D
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+
+}
+a:hover {color: #C83660;
+}
+h2{font-weight:lighter;}
+div { background: white; padding: 20px; box-shadow: 10 10 10 grey; padding:20px; margin:20px;border: 5px solid black;
+border-radius:12px }
+#container {width:700px; margin:40px auto; border: 2px grey;}
+.card {padding: 40px; border border-radius: 12px; border: 5px blue;}
+.imgc {border-radius: 50%;}
+.btnb {background-color:#E6F8F9; padding: 15px 20px; border-radius:12px;}
+.listh {padding-left:0px;}
+@media (max-width: 500px) {#container {width:400px;background-color: solid black;} .card {background-color:#E6F8F9 }}
+li {margin-bottom: 40px;}
+#insta
